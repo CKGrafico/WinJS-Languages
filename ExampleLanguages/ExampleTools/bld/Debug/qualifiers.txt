@@ -1,0 +1,3 @@
+Scale=100
+Language=ES-ES
+Language=EN-US

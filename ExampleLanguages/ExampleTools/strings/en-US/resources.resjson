@@ -1,0 +1,9 @@
+﻿{
+	// language codes
+	"es-ES": "Castellano",
+	"en-US": "English",
+	
+	// Other strings
+	"Current language": "Current language",
+	"Open configuration charm to change language": "Open configuration charm to change language"
+}

@@ -1,0 +1,7 @@
+﻿#content {
+    padding: 40px;
+}
+
+#content * {
+    margin: 10px;
+}

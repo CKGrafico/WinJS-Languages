@@ -1,0 +1,15 @@
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bin\Debug\ReverseMap\resources.pri
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bin\Debug\AppxManifest.xml
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bin\Debug\ExampleTools.build.appxrecipe
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\priconfig.xml
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\priconfig.xml.intermediate
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\layout.resfiles
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\layout.resfiles.intermediate
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\resources.resfiles
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\resources.resfiles.intermediate
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\pri.resfiles
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\pri.resfiles.intermediate
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\qualifiers.txt
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\qualifiers.txt.intermediate
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Datos\Github\WinjsTools\ExampleTools\ExampleTools\bld\Debug\ProjectArchitectures.txt

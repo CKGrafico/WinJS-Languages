@@ -1,0 +1,15 @@
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bin\Debug\ReverseMap\resources.pri
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bin\Debug\AppxManifest.xml
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bin\Debug\ExampleLanguages.build.appxrecipe
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\priconfig.xml
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\priconfig.xml.intermediate
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\layout.resfiles
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\layout.resfiles.intermediate
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\resources.resfiles
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\resources.resfiles.intermediate
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\pri.resfiles
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\pri.resfiles.intermediate
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\qualifiers.txt
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\qualifiers.txt.intermediate
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Datos\Github\WinJS-Languages\ExampleLanguages\ExampleTools\bld\Debug\ProjectArchitectures.txt
