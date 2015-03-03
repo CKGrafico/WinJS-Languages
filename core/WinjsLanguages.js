@@ -36,8 +36,11 @@
             },
 
             setCurrent: function (language) {
+                if (typeof language !== 'object') {
+                    language = { id: language, label: language };
+                }
                 Windows.Globalization.ApplicationLanguages.primaryLanguageOverride = language.id;
-                roamingSettings.values['WinjsLanguages'] = JSON.stringify({ id: language.id, label: language.label });
+                roamingSettings.values['WinjsLanguages'] = JSON.stringify(language);
                 this.language = language;
             },
 
