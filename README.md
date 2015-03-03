@@ -40,8 +40,8 @@ Helper to more easy the languages in WinJS
 **Getter and setter**
 
     (function (g, languages) {
-         var currentLang = languages.getLanguage();
-         languages.setLanguage('es-ES');
+         var currentLang = languages.getCurrent();
+         languages.setCurrent('es-ES');
     })(window, window.languages);
 
 **Translating**
